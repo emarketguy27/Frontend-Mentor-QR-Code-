@@ -1,5 +1,3 @@
-# Frontend-Mentor-QR-Code-
-QR Code Component Challenge
 <!-- @format -->
 
 # Frontend Mentor - QR code component solution
